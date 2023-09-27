@@ -1,0 +1,20 @@
+
+body{
+    background: rgb(238,174,202);
+background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(38,19,209,1) 100%);
+}
+.col-md-7 {
+    background-color: #fff;
+    margin-top: 100px;
+}
+li{
+    padding: 20px 20px;
+}
+li:hover{
+    cursor: pointer;
+}
+label{
+    font-size: 22px !important;
+    font-weight: 600;
+    cursor: pointer;
+}
